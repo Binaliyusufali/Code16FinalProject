@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "CUMHURİYET CADDESİ",
+    "Description": "Cadde üstünde kırmızı istasyon noktası.",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "OSMANGAZİ"
+  },
+  {
+    "id": 2,
+    "title": "HÜDAVENDİGAR PARKI",
+    "Description": "Parkın 3.kapısından girişte sol tarafta bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "NİLÜFER"
+
+  },
+  {
+    "id": 3,
+    "title": "BUDO İSKELESİ",
+    "Description": "BUDO iskelesinin solunda bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "MUDANYA"
+
+  },
+  {
+    "id": 4,
+    "title": "BOTANİK PARK",
+    "Description": "Botanik parkın içindeki gölün kenarında bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",    "bölge": "OSMANGAZİ"
+
+  },
+  {
+    "id": 5,
+    "title": "GÖLYAZI MEYDANI",
+    "Description": "Ağlayan Çınarın sol tarafında bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",    "bölge": "GÖLYAZI"
+
+  },
+  {
+    "id": 6,
+    "title": "ZAFER PLAZA",
+    "Description": "Cadde üstünde kırmızı istasyon noktası.",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "OSMANGAZİ"
+
+  },
+  {
+    "id": 7,
+    "title": "KENT MEYDANI",
+    "Description": "Parkın 3.kapısından girişte sol tarafta bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "OSMANGAZİ"
+
+  },
+  {
+    "id": 8,
+    "title": "TEFERRÜÇ",
+    "Description": "Teleferik gişelerinin solunda bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",    "bölge": "YILDIRIM"
+
+  },
+  {
+    "id": 9,
+    "title": "KESTEL MEYDAN",
+    "Description": "Kestel parkının içindeki bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "KESTEL"
+  },
+  {
+    "id": 10,
+    "title": "GÜRSU KÜTÜPHANESİ",
+    "Description": "Merkez kütüphanenin altında bulunan kırmızı istasyon noktası. ",
+    "image": "https://www.bursa.bel.tr/dosyalar/image/5A.png",
+    "bölge": "GÜRSU"
+  }
+]
